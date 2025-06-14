@@ -1,0 +1,44 @@
+body{
+  background-color: lightgray;
+}
+.heading{
+  text-align: center;
+}
+
+.block{
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.username{
+  font-size: 24px;
+  padding: 6px;
+  border-radius: 10px;
+}
+
+.btn{
+  background-color: red;
+  padding: 10px 20px;
+  font-size: large;
+  border-radius: 25px;
+}
+
+.center{
+  display: flex;
+  justify-content: center;
+}
+
+.anchor{
+  font-size: x-large;
+  text-decoration: none;
+  text-transform: capitalize;
+}
+
+.generate{
+  margin-top: 10vh;
+}
+
+.op{
+  margin-left: 10px;
+}
